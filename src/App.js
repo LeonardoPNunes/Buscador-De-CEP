@@ -10,7 +10,7 @@ function App() {
         placeholder="Digite seu CEP..."/>
 
         <button className="button-search">
-          <FiSearch size={25} color="black" /> 
+          <FiSearch size={25} color="white" /> 
         </button>
       </div>
       <main className="main">
